@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "img_url": "https://i.pinimg.com/564x/41/3a/d7/413ad7814ef41f6a48fd8329cb00c443.jpg",
+    "description": "Món ăn Việt Nam",
+    "class": "h-full w-full object-cover object-center"
+  },
+  {
+    "id": 2,
+    "img_url": "https://i.pinimg.com/564x/1a/9b/f9/1a9bf997a4b01fa82f68df545f0c4b0c.jpg",
+    "description": "Phong cảnh thiên nhiên",
+    "class": "h-full w-full object-cover object-center"
+  },
+  {
+    "id": 3,
+    "img_url": "https://i.pinimg.com/564x/6d/d6/1e/6dd61e417e5125582f6085fe4fb93f4e.jpg",
+    "description": "Cầu vàng Đà Nẵng",
+    "class": "h-full w-full object-cover object-center"
+  },
+  {
+    "id": 4,
+    "img_url": "https://i.pinimg.com/564x/8f/93/93/8f9393a42e47b0867b2b11f5278475cc.jpg",
+    "description": "Nội thất nhà bếp hiện đại",
+    "class": "h-full w-full object-cover object-center"
+  },
+  {
+    "id": 5,
+    "img_url": "https://i.pinimg.com/564x/c9/60/d4/c960d4c2a09dfd57896eaaaf2054a829.jpg",
+    "description": "Thời trang nữ",
+    "class": "h-full w-full object-cover object-center"
+  },
+  {
+    "id": 6,
+    "img_url": "https://i.pinimg.com/564x/fd/46/50/fd465046f6b45397c626136635ca8691.jpg",
+    "description": "Hình nền điện thoại hoạt hình",
+    "class": "h-full w-full object-cover object-center"
+  },
+  {
+    "id": 7,
+    "img_url": "https://i.pinimg.com/564x/93/39/6f/93396f72b1b9477e974065431365d601.jpg",
+    "description": "Mèo",
+    "class": "h-full w-full object-cover object-center"
+  },
+  {
+    "id": 8,
+    "img_url": "https://i.pinimg.com/564x/d1/33/1c/d1331c81932e6a56d0d1a45b49b0c098.jpg",
+    "description": "Nhiếp ảnh phong cảnh",
+    "class": "h-full w-full object-cover object-center"
+  }
+]
